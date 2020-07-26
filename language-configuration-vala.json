@@ -5,7 +5,7 @@
 	},
     "comments": {
         "lineComment": "// ",
-        "blockComment": [ "/* ", " */" ]        
+        "blockComment": [ "/* ", " */" ]
     },
     "brackets": [
         ["{", "}"],
