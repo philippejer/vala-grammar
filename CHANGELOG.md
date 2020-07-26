@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.6
+- Mark extension as deprecated in favor of the now stable extension `vala-vscode`
+
 ## 1.0.5
 - Fix possible IDE slowdown/freeze with interpolated strings containing nested parentheses (!)
 

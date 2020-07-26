@@ -1,8 +1,8 @@
 {
   "name": "vala-grammar",
-  "displayName": "Vala Grammar",
+  "displayName": "Vala Grammar (deprecated)",
   "description": "Syntax highlighting for the Vala / Genie languages",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "philippejer",
   "author": {
     "name": "Jeremy Philippe",

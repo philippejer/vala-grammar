@@ -1,5 +1,7 @@
 # Vala Grammar
 
+**Note**: This extension is deprecated in favor of the [vala-vscode](https://marketplace.visualstudio.com/items?itemName=prince781.vala) extension which supports syntax highlighting. It will be unpublished on september 1, 2020.
+
 ## Syntax highlighting for the Vala / Genie languages
 
 ---
